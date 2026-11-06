@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CivicTrack (Python)
 
 Community issue-reporting app: resident website, staff dashboard, REST API and SQLite, all in one Flask file (`civictrack.py`). Put the website (`index.html`, `css/`, `js/`) in `public/`.
@@ -42,3 +43,6 @@ JSON in/out; auth is `Authorization: Bearer <token>`. Lists return `{total, item
 | `GET /staff/summary` · `/staff/support` | totals by status/priority; latest support messages |
 
 Statuses: Submitted, Under review, Accepted, Assigned, In progress, Resolved, Closed, Rejected.
+=======
+# Ignite---community-problem-reporting-and-resolution-platform
+>>>>>>> a4c4eeb2e8130cfed3583f1dc5b3307f2227b354
